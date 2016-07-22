@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Facebook">facebook</string>
+    <string name="GooglePlus">google</string>
+    <string name="Instagram">instagram</string>
+    <string name="Settings">settings</string>
+    <string name="RSS" />
+    <string name="Rocket" />
+    <string name="Exit" />
+</resources>

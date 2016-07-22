@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+
+
+
+
+        <item
+            android:id="@+id/facebook"
+            android:orderInCategory="100"
+            android:title="@string/Facebook"
+            android:icon="@drawable/ic_facebook"
+            app:showAsAction="ifRoom"
+            />
+        <item
+            android:id="@+id/gplus"
+            android:orderInCategory="200"
+            android:title="@string/GooglePlus"
+            android:icon="@drawable/ic_googleplus"
+            app:showAsAction="ifRoom"
+            />
+        <item
+            android:id="@+id/Instagram"
+            android:orderInCategory="300"
+            android:title="@string/Instagram"
+            android:icon="@drawable/ic_instagrame"
+            app:showAsAction="ifRoom"
+            />
+        <item
+            android:id="@+id/Exit"
+            android:orderInCategory="300"
+
+            android:icon="@drawable/ic_action_name"
+            app:showAsAction="ifRoom"
+            android:title="" />
+
+    </group>
+
+</menu>

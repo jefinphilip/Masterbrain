@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Masterbrain</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Facebook">facebook</string>
+    <string name="GooglePlus">google</string>
+    <string name="Instagram">instagram</string>
+    <string name="Settings">settings</string>
+    <string name="RSS" />
+    <string name="Rocket" />
+    <string name="Exit" />
+
+
+</resources>
